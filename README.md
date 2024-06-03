@@ -5,6 +5,13 @@ Bu proje IOT ve arduino tarzı platformlarda sorun yaşayan işiler için oluşt
 
 
 ## SORU CEVAP
+#### NASIL DESTEK ALIRIM?
+
+ŞABLONA UYUGUN BİR ŞEKİLDE ISSUE AÇABİLİRSİNİZ
+
+#### GARANTİSİ VAR MI?
+
+HAYIR, BOŞ VAKİTLERİMDE YARDIMCI OLMAK İÇİN YAPTIĞIMDAN DOLAYI ÇÖZÜM VEYA CEVAPLANMA GARANTİSİ YOK.
 
 #### Ücretli Destek Sunuyor musunuz?
 
